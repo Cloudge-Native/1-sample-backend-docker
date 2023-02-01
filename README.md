@@ -1,3 +1,3 @@
-# Cloudge 1 - Sample backend
+# Cloudge 1 - Secret backend
 
-Sample backend for Cloudge #1 Session
+Secret backend for Cloudge #1 Session
